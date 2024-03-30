@@ -10,6 +10,6 @@ How to use this repository:
 
 TODO:
 
-  train
+    train
 
-  inference
+    inference
