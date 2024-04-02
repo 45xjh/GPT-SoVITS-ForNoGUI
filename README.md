@@ -1,5 +1,5 @@
 # GPT-SoVITS-ForNoGUI
-This repository is to implement the processes for users have no GUI
+This repository is to implement the processes for users have no GUI. For 没有图形界面的linux系统
 
 GPT-SoVITS: https://github.com/RVC-Boss/GPT-SoVITS
 
