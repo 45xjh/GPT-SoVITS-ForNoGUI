@@ -10,6 +10,8 @@ How to use this repository:
 
 TODO:
 
+  一键三连
+  
   train
 
   inference
