@@ -9,7 +9,8 @@ How to use this repository:
   put these .py files into the root of GPT-SoVITS and then use them.
 
 TODO:
-  √ uvr5
+  
+  √ uvr5、slice、ASR
 
   √ 一键三连
   
